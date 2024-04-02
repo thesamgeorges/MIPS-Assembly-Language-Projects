@@ -17,8 +17,8 @@ j main
 # 
 # Fill in your name, student ID in the designated sections.
 # 
-student_name: .asciiz "Samantha Georges"
-student_id: .asciiz "130855774#"
+student_name: .asciiz "Sam G"
+student_id: .asciiz "ID #"
 
 new_line: .asciiz "\n"
 space: .asciiz " "
